@@ -71,7 +71,7 @@ pip install tensorflow numpy
 
 ## Acknowledgement
 
-This project is an educational experiment to understand Transformer-based NLP and sentiment classification.
+This project is an educational experiment to understand Transformer-based NLP and sentiment classification.The project is intended primarily for learning and understanding the workflow rather than building a production-ready sentiment analysis system.
 
 ---
 
